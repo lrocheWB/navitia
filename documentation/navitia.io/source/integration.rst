@@ -1,6 +1,8 @@
 Navitia documentation: v1 interface 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+http://www.navitia.io (Navitia.io website)
+
 .. contents:: Index
 
 Overview
