@@ -588,7 +588,7 @@ The list of regions covered by navitia is available through [coverage](#coverage
 </aside>
 
 <a
-    href="http://jsfiddle.net/gh/get/jquery/2.2.2/lrocheWB/navitia/tree/dev/documentation/slate/source/examples/jsfiddle/journeys/"
+    href="http://jsfiddle.net/gh/get/jquery/2.2.2/lrocheWB/navitia/tree/feature-navio-583-update-documentation/documentation/slate/source/examples/jsFiddle/journeys/"
     target="_blank"
     class="button button-blue">
     Code it yourself on JSFiddle"
